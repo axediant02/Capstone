@@ -1,19 +1,37 @@
-# Project Name
+# How to Use
 
-A brief description of your project and what it aims to achieve.
+First Clone the repository using GitBash
 
-## Features
+## Git Bash installation guide
 
-- Feature 1
-- Feature 2
-- Feature 3
+Go to https://git-scm.com/download/win and download the git software
 
-## Installation
+## Clone Guide
 
-### Backend (Laravel)
+Steps in cloning the project repository:
+Right Click on your desktop or any folder.
+Find "Get Bash Here" option (For Windows 11, click show more options.)
+On git, type or paste these command:
 
-1. **Clone the backend repository:**
+```bash
+git clone https://github.com/axediant02/Capstone.git
 
-   ```bash
-   git clone https://github.com/your-username/your-backend-repo.git
-   ```
+```
+
+After successful clone
+
+```bash
+cd capstone
+```
+
+```bash
+code .
+```
+
+There you go, Happy coding
+
+====================
+
+# Important Note!
+
+Don't change anything on **_<mark>backend</mark>_** workspace, only work on **_<mark>frontend</mark>_**.
